@@ -10,6 +10,8 @@ This web app was built using React and Node.JS (Express to be precise). Coming i
 
 Running the code will bring up a page where you are required to enter your name, email, and credit card information. All of that information is required and there is some LIGHT enforcement to do things like check names/emails etc. 
 
+You can find the friction log I compiled while building this experience [here](./frictionLog.md). 
+
 # How To Run It Locally
 
 1. Clone this repository to your machine
