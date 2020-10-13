@@ -8,7 +8,7 @@ Surprise me! is my new e-commerce business that is all about customers paying $2
 
 This web app was built using React and Node.JS (Express to be precise). Coming in, I didn’t know how to use either of those things, so while it was a cool experience, please excuse any n00b code (but it should all work!). 
 
-Running the code will bring up a page where you are required to enter your name, email, and credit card information. All of that information is required and there is some LIGHT enforcement to do things like check names/emails etc. 
+Running the code will bring up a page where you are required to enter your name, email, street address, zip, and credit card information. All of that information is required and there is some LIGHT enforcement to do things like check names/emails etc. 
 
 You can find the friction log I compiled while building this experience [here](./frictionLog.md). 
 
@@ -48,7 +48,7 @@ This is just the beginning.
 
 1. I have no tests, I’m sorry to all my test driven engineering friends
 2. The UI is crap on mobile (and in general) we’d probably clean that up
-3. We probably need better name, address, and email validation
-4. Couple of places where I'm definitely not international friendly, need to do a better job at that.
+3. We probably need better name, address, postal code, and email validation
+4. Couple of places where I'm definitely not international friendly, need to do a better job at that
 5. We’d need to figure out what we’d send people 😉
 
