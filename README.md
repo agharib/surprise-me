@@ -1,5 +1,7 @@
 # 😲🎁 Surprise Me! 1.0
 
+![Image of Surprise Me!](./surpriseMeScreenshot.png)
+
 # About
 
 Surprise me! is my new e-commerce business that is all about customers paying $20 for the opportunity to have me send them random wild stuff. You never know what you’ll get, but I promise it’ll be memorable. 
@@ -21,10 +23,30 @@ Running the code will bring up a page where you are required to enter your name,
 
 # How To Test
 
+### Testing main functionality
+
 1. In the local instance of the web app, try putting in different card numbers, expiration dates etc and notice how it enforces all the card requirements. In addition it will enforce name and email. 
 2. You can test different card states as well using the following card numbers and any CVC, Zip, and future expiration date
 
-| Test card number     | Using webhooks | Declining on card authentication |
+| Test card number     | Expected Result | Declining on card authentication |
 :--- | :--- | :---
-**4242424242424242** | Succeeds  | Succeeds |
-**4000000000003220** | Displays a pop-up modal to authenticate  | Declines and asks customer for new card |
+**4242424242424242** | Succeeds  | N/A |
+**4000002500003155** | Displays a pop-up modal to authenticate  | Declines and asks customer for new card |
+**4000000000009995** | Gives customer insufficient funds error  | N/A |
+
+### Testing transaction log
+
+1. Surprise Me! also features complete server side logging of completed sales, powered by Stripe webhooks. You can view see this in action by installing Stripe CLI and running: `stripe listen --forward-to localhost:9000/paymentProcessing/webhook`. 
+2. Then in another terminal window run: `stripe trigger payment_intent.succeeded` or go to the web app and try a successful purchase using the card number above. 
+3. You’ll notice in the terminal window that you ran listen a few 200 POSTs and if you navigate to salesLog.txt in your cloned directory you’ll see a log for that sale. This will log Billing/shipping information based on the source of the sale. 
+
+# **What’s Next?**
+
+This is just the beginning.
+
+1. Today I don’t have addresses to ship these items, so I’d likely add that
+2. I have no tests, I’m sorry to all my test driven engineering friends
+3. The UI is crap on mobile (and in general) we’d probably clean that up
+4. We probably need better name and email validation
+5. We’d need to figure out what we’d send people 😉
+

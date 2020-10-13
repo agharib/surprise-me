@@ -743,3 +743,38 @@
  --Customer Name: adsfsf adsfasfas
  --Customer Email: Asdfasf@yahoo.com
  -Shipping Info: Not Provided 
+
+ New Sale #3
+ -Date: 10/12/2020, 8:14:20 PM
+ -Transaction ID: pi_1HbdxwI5KSVF37EPeX15sTTv
+ -Total: 20.00 usd
+ -Billing Info: 
+ --Customer Name: asdfad sdafasdf
+ --Customer Email: afadsfads@outlook.com
+ -Shipping Info: Not Provided 
+
+ New Sale #4
+ -Date: 10/12/2020, 8:28:50 PM
+ -Transaction ID: pi_1HbeByI5KSVF37EP0vzLaN0p
+ -Total: 20.00 usd
+ -Billing Info: 
+ --Customer Name: null
+ --Customer Email: null
+ -Shipped To: Jenny Rosen
+ -Address: 
+ --Street Address: 510 Townsend St 
+ --City: San Francisco, CA
+ --Postal Code: 94103
+
+ New Sale #5
+ -Date: 10/12/2020, 8:29:00 PM
+ -Transaction ID: pi_1HbeC8I5KSVF37EP6Yv500VZ
+ -Total: 20.00 usd
+ -Billing Info: 
+ --Customer Name: null
+ --Customer Email: null
+ -Shipped To: Jenny Rosen
+ -Address: 
+ --Street Address: 510 Townsend St 
+ --City: San Francisco, CA
+ --Postal Code: 94103
