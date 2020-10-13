@@ -28,7 +28,7 @@ Every engineer may weigh these things differently and make tradeoffs, but these 
 6. **Is everyone using Stripe?** - Any error I hit, a quick google search saw several solutions. The community is thriving and supporting each other. Also noticed great links to developer communities in the developer portal, really amplifies that focus on the community more. 
 7. **Great level of abstaction** - Stripe handles checking the validity of the cards, handles secondary authentication, handles international cards etc. As an Engineer, I just focus on my business and not all the details associated with proccessing money. 
 8. **Everything from the design to the requests are customizable** - The default payment UI design is beautiful and really easy to customize via CardStyle. This allows an engineer to match this form to their website or company brand. The API is simillar in this sense. If your business doesn't collect shipping information you don't need to collect it, it supports various currencies, and collects a ton of metadata that you need to run your business processes. As an engineer, this helps you keep all your stakeholders happy.
-
+ 
 ## The Bad
 
 1. **Documentation is extensive, but inconsistent** - Documentation whether in the tutorials, sample code, sdk etc is critical for an engineers on ramp and understanding. While there is a lot of it, it’s inconsistent dependent on what page you go to. For example the immersive experience doesn’t talk about fetching a client secret, while the text guide does, this makes it easy to miss critical capabilities. The sample code is also inconsistent, there are several examples that support React and several that don’t. Makes it hard to make use of all the great documentation. 
