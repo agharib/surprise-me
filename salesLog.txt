@@ -14,7 +14,7 @@
 ⣿⣿⣿⣿⣿⣿⣿⣿⣿⠃⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢸⣿⣿
 Welcome to The Surprise Me Sales Log!
 
- New Sale #3
+ New Sale
  -Date: 10/13/2020, 12:40:00 AM
  -Transaction ID: pi_1Hbi72I5KSVF37EPQDDvFxBi
  -Total: 20.00 usd
