@@ -4,16 +4,17 @@
 
 ***Goal: To building a way for my e-commerce store to accept payments, fulfill that order, and log a registry of all payments***
 
-Regardless of if they are entrepreneurs or working at mid-size/large companies, Engineers weigh several aspects when looking to onboard a new platform. To name a few examples, Engineers look for: 
+Whether they are entrepreneurs or working at mid-size/large companies, Engineers weigh several aspects when looking to onboard a new platform. To name a few examples, Engineers look for: 
 
 1. **Aligned Goals:** How does the platform help them accomplish their business goals?
-2. **Low On-Ramp:** How difficult is the on-ramp to the platform? How long before they can see something working?
-3. **Tons of Integrations:** Does this platform work with all of their existing tooling? Are there integrations with their critical systems (like POS, bookkeeping etc). 
+2. **Low On-Ramp:** How difficult is the on-ramp to the platform? How long before they can see something working? How hard is it to move away from their exisiting solution?
+3. **Tons of Integrations:** Does this platform work with all of their existing tooling? Are there integrations with their critical systems (like POS, bookkeeping etc). What new integrations does this open up?
 4. **Customization:** How can the platform be customized to fit their needs? 
 5. **Testing and Error Handling:** How do they test their integration and make sure they are handling all cases gracefully?
 6. **Scalability:** How will the platform scale with their business/team?
 7. **Support & Thriving Ecosystem:** If something doesn’t work do they have clear ways to debug? Is there an ecosystem around the platform? Can they just look up an issue in StackOverflow and find the answer?
-8. And much much more depending on their domain
+8. **Security, Privacy, and Reliability:** Is their customer data safe? Will their business stay up and running? Is their company data safe?
+9. And much much more depending on their domain
 
 Every engineer may weigh these things differently and make tradeoffs, but these are some of the things I’m looking to answer as I onboard to Stripe via the PaymentsIntent Integration. 
 
@@ -25,6 +26,7 @@ Every engineer may weigh these things differently and make tradeoffs, but these 
 4. **Start making money in no time** - I haven’t wrote code in years and never used React/Node.JS and I stood up a page that accepts payments in a day. 
 5. **Control over my data with webhooks **- This makes the possibilities endless. As Stripe processes everything, I can update my server and store that data locally or push to other third party solutions ( reporting POS etc)
 6. **Is everyone using Stripe?** - Any error I hit, a quick google search saw several solutions. The community is thriving and supporting each other. Also noticed great links to developer communities in the developer portal, really amplifies that focus on the community more. 
+7. **Great level of abstaction** - Stripe handles checking the validity of the cards, handles secondary authentication, handles international cards etc. As an Engineer, I just focus on my business and not all the details associated with proccessing money. 
 
 ## The Bad
 
