@@ -15,6 +15,8 @@ export default function CheckoutForm() {
   const [clientSecret, setClientSecret] = useState('');
   const [enteredEmail, setEmail] = useState('')
   const [enteredName, setName] = useState('')
+  const [enteredStreet, setStreet] = useState('')
+  const [enteredZip, setZip] = useState('')
 
   const stripe = useStripe();
   const elements = useElements();
@@ -60,6 +62,7 @@ export default function CheckoutForm() {
     }
   };
 
+  // Checking all the inputs, validating them and setting them once entered
   const handleChange = async (event) => {
     if (event.empty) {
       setDisabled(event.empty);
@@ -74,16 +77,32 @@ export default function CheckoutForm() {
       if (validateName(event.target.value)) {
         setName(event.target.value);
       }
+    } else if (event.target.id === "zip") {
+      if (validateZip(event.target.value)) {
+      setZip(event.target.value);
+      }
+    } else if (event.target.id === "street") {
+      if (validateStreet(event.target.value)) {
+      setStreet(event.target.value);
+      }
     }
   };
 
   function validateName(name) {
     // This isn't international friendly yet. 
-    return /^[a-zA-Z]+ [a-zA-Z]+$/.test(name)
+    return /^[a-zA-Z]+ [a-zA-Z]+$/.test(name);
   };
 
   function validateEmail(email) {
-    return /^[^\s@]+@[^\s@]+\.[^\s@]+$/.test(email)
+    return /^[^\s@]+@[^\s@]+\.[^\s@]+$/.test(email);
+  };
+
+  function validateStreet(street) {
+    return /^[a-zA-Z0-9\s,'-]*$/.test(street);
+  };
+
+  function validateZip(zip) {
+    return /^\d{5}(-\d{4})?$/.test(zip);
   };
 
   // Decides what will happen on Submit from DOM, looks like 
@@ -98,8 +117,16 @@ export default function CheckoutForm() {
       return;
     }
 
-    if (enteredEmail && enteredName) {
+    // Showing errors if all fields are not entered. If all are entered fill in payload with them. 
+    if (enteredEmail && enteredName && enteredStreet && enteredZip) {
       const payload = await stripe.confirmCardPayment(clientSecret, {
+        shipping : {
+          name: enteredName,
+          address : {
+            line1: enteredStreet,
+            postal_code: enteredZip
+          }
+        },
         payment_method: {
           card: elements.getElement(CardElement),
           billing_details: {
@@ -125,7 +152,11 @@ export default function CheckoutForm() {
       }
     } else {
       if (!enteredName) {
-        setError(`Full Name needed to complete transaction`);
+        setError(`Full name needed to complete transaction`);
+      } else if (!enteredStreet) {
+        setError(`Street address needed to complete transaction`);
+      } else if (!enteredZip) {
+        setError(`Postal code needed to complete transaction`);
       } else {
         setError(`Email needed to complete transaction`);
       }
@@ -137,7 +168,9 @@ export default function CheckoutForm() {
   return (
     <form id="payment-form" onSubmit={handleSubmit}>
             <input type="text" id="nameField" className="field" placeholder="Name" onChange={handleChange} />
-      <input type="email" id="email" className="field" placeholder="Email address" onChange={handleChange} />
+      <input type="email" id="email" className="field" placeholder="Email" onChange={handleChange} />
+      <input type="text" id="street" className="field" placeholder="Street address" onChange={handleChange} />
+      <input type="text" pattern="[0-9]*" maxlength="5" required className="field" id="zip" placeholder="Postal code" onChange={handleChange} />
       <CardElement id="card-element" options={cardStyle} onChange={handleChange} />
       <button
         disabled={processing || disabled || succeeded}

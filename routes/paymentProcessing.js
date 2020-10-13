@@ -49,7 +49,7 @@ function handlePaymentIntentSucceeded(payment) {
       "\n -Transaction ID: " + payment.id +
       "\n -Total: " + (payment.amount / 100).toFixed(2) + " " + payment.currency);
 
-    if (payment.charges.data[0].billing_details) {
+    if (payment.charges.data[0].billing_details.name && payment.charges.data[0].billing_details.email) {
       text = text.concat("\n -Billing Info: ");
       text = text.concat("\n --Customer Name: " + payment.charges.data[0].billing_details.name);
       text = text.concat("\n --Customer Email: " + payment.charges.data[0].billing_details.email);
@@ -57,10 +57,12 @@ function handlePaymentIntentSucceeded(payment) {
 
     if (payment.shipping) {
       text = text.concat("\n -Shipped To: " + payment.shipping.name +
-        "\n -Address: \n --Street Address: " + payment.shipping.address.line1 + " " + (payment.shipping.address.line2 == null ? "" : payment.shipping.address.line2) +
-        "\n --City: " + payment.shipping.address.city + ", " + payment.shipping.address.state +
-        "\n --Postal Code: " + payment.shipping.address.postal_code + "\n"
-      );
+        "\n -Address: \n --Street Address: " + payment.shipping.address.line1 + " " + (payment.shipping.address.line2 == null ? "" : payment.shipping.address.line2));
+      text = text.concat("\n --Postal Code: " + payment.shipping.address.postal_code);
+      if (payment.shipping.address.city) {
+        text = text.concat("\n --City: " + payment.shipping.address.city + ", " + payment.shipping.address.state);
+      };
+      text = text.concat("\n");
     } else {
       text = text.concat("\n -Shipping Info: Not Provided \n");
     };

@@ -44,9 +44,9 @@ Running the code will bring up a page where you are required to enter your name,
 
 This is just the beginning.
 
-1. Today I don’t have addresses to ship these items, so I’d likely add that
-2. I have no tests, I’m sorry to all my test driven engineering friends
-3. The UI is crap on mobile (and in general) we’d probably clean that up
-4. We probably need better name and email validation
+1. I have no tests, I’m sorry to all my test driven engineering friends
+2. The UI is crap on mobile (and in general) we’d probably clean that up
+3. We probably need better name, address, and email validation
+4. Couple of places where I'm definitely not international friendly, need to do a better job at that.
 5. We’d need to figure out what we’d send people 😉
 
