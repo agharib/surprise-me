@@ -1,0 +1,723 @@
+
+ New Sale #1
+ -Date: 10/11/2020, 4:03:15 PM
+ -Transaction ID: pi_1HbDZPI5KSVF37EPoJOB6N3p
+ -Total: 20.00 usd
+ -Customer Name: Jenny Rosen
+ -Address: 
+ --Street Address: 510 Townsend St null
+ --City: San Francisco, CA
+ --Postal Code: 94103
+
+ New Sale #2
+ -Date: 10/11/2020, 4:03:41 PM
+ -Transaction ID: pi_1HbDZpI5KSVF37EPWsI9PprT
+ -Total: 20.00 usd
+ -Customer Name: Jenny Rosen
+ -Address: 
+ --Street Address: 510 Townsend St null
+ --City: San Francisco, CA
+ --Postal Code: 94103
+
+ New Sale #3
+ -Date: 10/11/2020, 4:03:45 PM
+ -Transaction ID: pi_1HbDZtI5KSVF37EPXvNokMHs
+ -Total: 20.00 usd
+ -Customer Name: Jenny Rosen
+ -Address: 
+ --Street Address: 510 Townsend St null
+ --City: San Francisco, CA
+ --Postal Code: 94103
+
+ New Sale #4
+ -Date: 10/11/2020, 4:03:47 PM
+ -Transaction ID: pi_1HbDZvI5KSVF37EPyJovKolw
+ -Total: 20.00 usd
+ -Customer Name: Jenny Rosen
+ -Address: 
+ --Street Address: 510 Townsend St null
+ --City: San Francisco, CA
+ --Postal Code: 94103
+
+ New Sale #5
+ -Date: 10/11/2020, 4:03:49 PM
+ -Transaction ID: pi_1HbDZxI5KSVF37EP4KPXVrVn
+ -Total: 20.00 usd
+ -Customer Name: Jenny Rosen
+ -Address: 
+ --Street Address: 510 Townsend St null
+ --City: San Francisco, CA
+ --Postal Code: 94103
+
+ New Sale #6
+ -Date: 10/11/2020, 4:03:51 PM
+ -Transaction ID: pi_1HbDZzI5KSVF37EP7sVl9fwt
+ -Total: 20.00 usd
+ -Customer Name: Jenny Rosen
+ -Address: 
+ --Street Address: 510 Townsend St null
+ --City: San Francisco, CA
+ --Postal Code: 94103
+
+ New Sale #7
+ -Date: 10/11/2020, 4:03:53 PM
+ -Transaction ID: pi_1HbDa1I5KSVF37EPQtoM6jFx
+ -Total: 20.00 usd
+ -Customer Name: Jenny Rosen
+ -Address: 
+ --Street Address: 510 Townsend St null
+ --City: San Francisco, CA
+ --Postal Code: 94103
+
+ New Sale #8
+ -Date: 10/11/2020, 4:03:55 PM
+ -Transaction ID: pi_1HbDa3I5KSVF37EPTIs6BXsB
+ -Total: 20.00 usd
+ -Customer Name: Jenny Rosen
+ -Address: 
+ --Street Address: 510 Townsend St null
+ --City: San Francisco, CA
+ --Postal Code: 94103
+
+ New Sale #9
+ -Date: 10/11/2020, 4:03:57 PM
+ -Transaction ID: pi_1HbDa5I5KSVF37EPO45sfX7U
+ -Total: 20.00 usd
+ -Customer Name: Jenny Rosen
+ -Address: 
+ --Street Address: 510 Townsend St null
+ --City: San Francisco, CA
+ --Postal Code: 94103
+
+ New Sale #10
+ -Date: 10/11/2020, 4:03:59 PM
+ -Transaction ID: pi_1HbDa7I5KSVF37EPrgW1BYpL
+ -Total: 20.00 usd
+ -Customer Name: Jenny Rosen
+ -Address: 
+ --Street Address: 510 Townsend St null
+ --City: San Francisco, CA
+ --Postal Code: 94103
+
+ New Sale #11
+ -Date: 10/11/2020, 4:04:01 PM
+ -Transaction ID: pi_1HbDa9I5KSVF37EPfE6BJdfo
+ -Total: 20.00 usd
+ -Customer Name: Jenny Rosen
+ -Address: 
+ --Street Address: 510 Townsend St null
+ --City: San Francisco, CA
+ --Postal Code: 94103
+
+ New Sale #12
+ -Date: 10/11/2020, 4:04:03 PM
+ -Transaction ID: pi_1HbDaBI5KSVF37EP2JGqZHku
+ -Total: 20.00 usd
+ -Customer Name: Jenny Rosen
+ -Address: 
+ --Street Address: 510 Townsend St null
+ --City: San Francisco, CA
+ --Postal Code: 94103
+
+ New Sale #13
+ -Date: 10/11/2020, 4:04:05 PM
+ -Transaction ID: pi_1HbDaDI5KSVF37EPSN5jwM39
+ -Total: 20.00 usd
+ -Customer Name: Jenny Rosen
+ -Address: 
+ --Street Address: 510 Townsend St null
+ --City: San Francisco, CA
+ --Postal Code: 94103
+
+ New Sale #14
+ -Date: 10/11/2020, 4:04:07 PM
+ -Transaction ID: pi_1HbDaFI5KSVF37EPPcNEQ6SO
+ -Total: 20.00 usd
+ -Customer Name: Jenny Rosen
+ -Address: 
+ --Street Address: 510 Townsend St null
+ --City: San Francisco, CA
+ --Postal Code: 94103
+
+ New Sale #15
+ -Date: 10/11/2020, 4:04:09 PM
+ -Transaction ID: pi_1HbDaHI5KSVF37EPKAKeRQBg
+ -Total: 20.00 usd
+ -Customer Name: Jenny Rosen
+ -Address: 
+ --Street Address: 510 Townsend St null
+ --City: San Francisco, CA
+ --Postal Code: 94103
+
+ New Sale #16
+ -Date: 10/11/2020, 4:04:11 PM
+ -Transaction ID: pi_1HbDaJI5KSVF37EPIRzmP85f
+ -Total: 20.00 usd
+ -Customer Name: Jenny Rosen
+ -Address: 
+ --Street Address: 510 Townsend St null
+ --City: San Francisco, CA
+ --Postal Code: 94103
+
+ New Sale #17
+ -Date: 10/11/2020, 4:04:13 PM
+ -Transaction ID: pi_1HbDaLI5KSVF37EPT89H9KN5
+ -Total: 20.00 usd
+ -Customer Name: Jenny Rosen
+ -Address: 
+ --Street Address: 510 Townsend St null
+ --City: San Francisco, CA
+ --Postal Code: 94103
+
+ New Sale #18
+ -Date: 10/11/2020, 4:04:15 PM
+ -Transaction ID: pi_1HbDaNI5KSVF37EPMP0lFsih
+ -Total: 20.00 usd
+ -Customer Name: Jenny Rosen
+ -Address: 
+ --Street Address: 510 Townsend St null
+ --City: San Francisco, CA
+ --Postal Code: 94103
+
+ New Sale #19
+ -Date: 10/11/2020, 4:04:17 PM
+ -Transaction ID: pi_1HbDaPI5KSVF37EPnCwR6zSh
+ -Total: 20.00 usd
+ -Customer Name: Jenny Rosen
+ -Address: 
+ --Street Address: 510 Townsend St null
+ --City: San Francisco, CA
+ --Postal Code: 94103
+
+ New Sale #20
+ -Date: 10/11/2020, 4:04:18 PM
+ -Transaction ID: pi_1HbDaQI5KSVF37EPumtM5yQu
+ -Total: 20.00 usd
+ -Customer Name: Jenny Rosen
+ -Address: 
+ --Street Address: 510 Townsend St null
+ --City: San Francisco, CA
+ --Postal Code: 94103
+
+ New Sale #21
+ -Date: 10/11/2020, 4:04:21 PM
+ -Transaction ID: pi_1HbDaTI5KSVF37EPBaA5c4hC
+ -Total: 20.00 usd
+ -Customer Name: Jenny Rosen
+ -Address: 
+ --Street Address: 510 Townsend St null
+ --City: San Francisco, CA
+ --Postal Code: 94103
+
+ New Sale #22
+ -Date: 10/11/2020, 4:04:23 PM
+ -Transaction ID: pi_1HbDaVI5KSVF37EPDA7bF1EK
+ -Total: 20.00 usd
+ -Customer Name: Jenny Rosen
+ -Address: 
+ --Street Address: 510 Townsend St null
+ --City: San Francisco, CA
+ --Postal Code: 94103
+
+ New Sale #23
+ -Date: 10/11/2020, 4:04:24 PM
+ -Transaction ID: pi_1HbDaWI5KSVF37EPspPEIogL
+ -Total: 20.00 usd
+ -Customer Name: Jenny Rosen
+ -Address: 
+ --Street Address: 510 Townsend St null
+ --City: San Francisco, CA
+ --Postal Code: 94103
+
+ New Sale #24
+ -Date: 10/11/2020, 4:04:26 PM
+ -Transaction ID: pi_1HbDaYI5KSVF37EPcNYB78Tq
+ -Total: 20.00 usd
+ -Customer Name: Jenny Rosen
+ -Address: 
+ --Street Address: 510 Townsend St null
+ --City: San Francisco, CA
+ --Postal Code: 94103
+
+ New Sale #25
+ -Date: 10/11/2020, 4:04:28 PM
+ -Transaction ID: pi_1HbDaaI5KSVF37EPCxNrpwRn
+ -Total: 20.00 usd
+ -Customer Name: Jenny Rosen
+ -Address: 
+ --Street Address: 510 Townsend St null
+ --City: San Francisco, CA
+ --Postal Code: 94103
+
+ New Sale #26
+ -Date: 10/11/2020, 4:04:30 PM
+ -Transaction ID: pi_1HbDacI5KSVF37EPLtk3BrC1
+ -Total: 20.00 usd
+ -Customer Name: Jenny Rosen
+ -Address: 
+ --Street Address: 510 Townsend St null
+ --City: San Francisco, CA
+ --Postal Code: 94103
+
+ New Sale #27
+ -Date: 10/11/2020, 4:04:32 PM
+ -Transaction ID: pi_1HbDaeI5KSVF37EPx76ebrqM
+ -Total: 20.00 usd
+ -Customer Name: Jenny Rosen
+ -Address: 
+ --Street Address: 510 Townsend St null
+ --City: San Francisco, CA
+ --Postal Code: 94103
+
+ New Sale #28
+ -Date: 10/11/2020, 4:04:34 PM
+ -Transaction ID: pi_1HbDagI5KSVF37EPc6YyMt7h
+ -Total: 20.00 usd
+ -Customer Name: Jenny Rosen
+ -Address: 
+ --Street Address: 510 Townsend St null
+ --City: San Francisco, CA
+ --Postal Code: 94103
+
+ New Sale #29
+ -Date: 10/11/2020, 4:04:36 PM
+ -Transaction ID: pi_1HbDaiI5KSVF37EPh6vM8KAf
+ -Total: 20.00 usd
+ -Customer Name: Jenny Rosen
+ -Address: 
+ --Street Address: 510 Townsend St null
+ --City: San Francisco, CA
+ --Postal Code: 94103
+
+ New Sale #30
+ -Date: 10/11/2020, 4:04:38 PM
+ -Transaction ID: pi_1HbDakI5KSVF37EPyNUHz1a1
+ -Total: 20.00 usd
+ -Customer Name: Jenny Rosen
+ -Address: 
+ --Street Address: 510 Townsend St null
+ --City: San Francisco, CA
+ --Postal Code: 94103
+
+ New Sale #31
+ -Date: 10/11/2020, 4:04:40 PM
+ -Transaction ID: pi_1HbDamI5KSVF37EPIGDuOaoz
+ -Total: 20.00 usd
+ -Customer Name: Jenny Rosen
+ -Address: 
+ --Street Address: 510 Townsend St null
+ --City: San Francisco, CA
+ --Postal Code: 94103
+
+ New Sale #32
+ -Date: 10/11/2020, 4:04:42 PM
+ -Transaction ID: pi_1HbDaoI5KSVF37EPg7kmOabc
+ -Total: 20.00 usd
+ -Customer Name: Jenny Rosen
+ -Address: 
+ --Street Address: 510 Townsend St null
+ --City: San Francisco, CA
+ --Postal Code: 94103
+
+ New Sale #33
+ -Date: 10/11/2020, 4:04:44 PM
+ -Transaction ID: pi_1HbDaqI5KSVF37EPaQb4zFjG
+ -Total: 20.00 usd
+ -Customer Name: Jenny Rosen
+ -Address: 
+ --Street Address: 510 Townsend St null
+ --City: San Francisco, CA
+ --Postal Code: 94103
+
+ New Sale #34
+ -Date: 10/11/2020, 4:04:46 PM
+ -Transaction ID: pi_1HbDasI5KSVF37EPbQN8S2NU
+ -Total: 20.00 usd
+ -Customer Name: Jenny Rosen
+ -Address: 
+ --Street Address: 510 Townsend St null
+ --City: San Francisco, CA
+ --Postal Code: 94103
+
+ New Sale #35
+ -Date: 10/11/2020, 4:04:48 PM
+ -Transaction ID: pi_1HbDauI5KSVF37EP8c5wlMNQ
+ -Total: 20.00 usd
+ -Customer Name: Jenny Rosen
+ -Address: 
+ --Street Address: 510 Townsend St null
+ --City: San Francisco, CA
+ --Postal Code: 94103
+
+ New Sale #1
+ -Date: 10/11/2020, 4:11:07 PM
+ -Transaction ID: pi_1HbDh1I5KSVF37EPTymTeDzI
+ -Total: 20.00 usdnull
+ --City: San Francisco, CA
+ --Postal Code: 94103
+
+ New Sale #2
+ -Date: 10/11/2020, 4:11:23 PM
+ -Transaction ID: pi_1HbDhHI5KSVF37EPjgnXRD8j
+ -Total: 20.00 usdnull
+ --City: San Francisco, CA
+ --Postal Code: 94103
+
+ New Sale #1
+ -Date: 10/11/2020, 4:12:49 PM
+ -Transaction ID: pi_1HbDifI5KSVF37EPCMM0XdUU
+ -Total: 20.00 usd
+ -Customer Name: Jenny Rosen
+ -Address: 
+ --Street Address: 510 Townsend St null
+ --City: San Francisco, CA
+ --Postal Code: 94103
+
+ New Sale #1
+ -Date: 10/11/2020, 4:13:19 PM
+ -Transaction ID: pi_1HbDj9I5KSVF37EPe3SZrRp5
+ -Total: 20.00 usd
+ -Customer Name: Jenny Rosen
+ -Address: 
+ --Street Address: 510 Townsend St 
+ --City: San Francisco, CA
+ --Postal Code: 94103
+
+ New Sale #2
+ -Date: 10/11/2020, 4:13:33 PM
+ -Transaction ID: pi_1HbDjNI5KSVF37EPZMx2Lh6J
+ -Total: 20.00 usd
+ -Customer Name: Jenny Rosen
+ -Address: 
+ --Street Address: 510 Townsend St 
+ --City: San Francisco, CA
+ --Postal Code: 94103
+
+ New Sale #3
+ -Date: 10/11/2020, 4:13:36 PM
+ -Transaction ID: pi_1HbDjQI5KSVF37EPOiS37W86
+ -Total: 20.00 usd
+ -Customer Name: Jenny Rosen
+ -Address: 
+ --Street Address: 510 Townsend St 
+ --City: San Francisco, CA
+ --Postal Code: 94103
+
+ New Sale #4
+ -Date: 10/11/2020, 4:13:37 PM
+ -Transaction ID: pi_1HbDjRI5KSVF37EPq9nxpfsI
+ -Total: 20.00 usd
+ -Customer Name: Jenny Rosen
+ -Address: 
+ --Street Address: 510 Townsend St 
+ --City: San Francisco, CA
+ --Postal Code: 94103
+
+ New Sale #5
+ -Date: 10/11/2020, 4:13:40 PM
+ -Transaction ID: pi_1HbDjUI5KSVF37EPzkz4VhHC
+ -Total: 20.00 usd
+ -Customer Name: Jenny Rosen
+ -Address: 
+ --Street Address: 510 Townsend St 
+ --City: San Francisco, CA
+ --Postal Code: 94103
+
+ New Sale #6
+ -Date: 10/11/2020, 4:13:41 PM
+ -Transaction ID: pi_1HbDjVI5KSVF37EPqDLtHiZ0
+ -Total: 20.00 usd
+ -Customer Name: Jenny Rosen
+ -Address: 
+ --Street Address: 510 Townsend St 
+ --City: San Francisco, CA
+ --Postal Code: 94103
+
+ New Sale #7
+ -Date: 10/11/2020, 4:13:43 PM
+ -Transaction ID: pi_1HbDjXI5KSVF37EPxmLsEx0c
+ -Total: 20.00 usd
+ -Customer Name: Jenny Rosen
+ -Address: 
+ --Street Address: 510 Townsend St 
+ --City: San Francisco, CA
+ --Postal Code: 94103
+
+ New Sale #8
+ -Date: 10/11/2020, 4:13:45 PM
+ -Transaction ID: pi_1HbDjZI5KSVF37EP4hgwkpZY
+ -Total: 20.00 usd
+ -Customer Name: Jenny Rosen
+ -Address: 
+ --Street Address: 510 Townsend St 
+ --City: San Francisco, CA
+ --Postal Code: 94103
+
+ New Sale #9
+ -Date: 10/11/2020, 4:13:49 PM
+ -Transaction ID: pi_1HbDjdI5KSVF37EPjtmYgfFX
+ -Total: 20.00 usd
+ -Customer Name: Jenny Rosen
+ -Address: 
+ --Street Address: 510 Townsend St 
+ --City: San Francisco, CA
+ --Postal Code: 94103
+
+ New Sale #10
+ -Date: 10/11/2020, 4:13:51 PM
+ -Transaction ID: pi_1HbDjfI5KSVF37EP6y4ePOnf
+ -Total: 20.00 usd
+ -Customer Name: Jenny Rosen
+ -Address: 
+ --Street Address: 510 Townsend St 
+ --City: San Francisco, CA
+ --Postal Code: 94103
+
+ New Sale #11
+ -Date: 10/11/2020, 4:13:53 PM
+ -Transaction ID: pi_1HbDjhI5KSVF37EPJVAtFHby
+ -Total: 20.00 usd
+ -Customer Name: Jenny Rosen
+ -Address: 
+ --Street Address: 510 Townsend St 
+ --City: San Francisco, CA
+ --Postal Code: 94103
+
+ New Sale #12
+ -Date: 10/11/2020, 4:13:54 PM
+ -Transaction ID: pi_1HbDjiI5KSVF37EPkfEMuqLb
+ -Total: 20.00 usd
+ -Customer Name: Jenny Rosen
+ -Address: 
+ --Street Address: 510 Townsend St 
+ --City: San Francisco, CA
+ --Postal Code: 94103
+
+ New Sale #13
+ -Date: 10/11/2020, 4:13:56 PM
+ -Transaction ID: pi_1HbDjkI5KSVF37EPpr9Q1yNP
+ -Total: 20.00 usd
+ -Customer Name: Jenny Rosen
+ -Address: 
+ --Street Address: 510 Townsend St 
+ --City: San Francisco, CA
+ --Postal Code: 94103
+
+ New Sale #14
+ -Date: 10/11/2020, 4:13:14 PM
+ -Transaction ID: pi_1HbDj4I5KSVF37EPqA3M8KwN
+ -Total: 14.00 usd
+ -Shipping Info: Not Provided 
+
+ New Sale #15
+ -Date: 10/11/2020, 4:23:34 PM
+ -Transaction ID: pi_1HbDt4I5KSVF37EPerKcs5uM
+ -Total: 14.00 usd
+ -Shipping Info: Not Provided 
+
+ New Sale #16
+ -Date: 10/11/2020, 4:37:45 PM
+ -Transaction ID: pi_1HbE6nI5KSVF37EPuwr9hGc1
+ -Total: 14.00 usd
+ -Shipping Info: Not Provided 
+
+ New Sale #1
+ -Date: 10/11/2020, 5:13:49 PM
+ -Transaction ID: pi_1HbEfhI5KSVF37EPrSewxGVz
+ -Total: 14.00 usd
+ -Shipping Info: Not Provided 
+
+ New Sale #2
+ -Date: 10/11/2020, 5:15:37 PM
+ -Transaction ID: pi_1HbEhRI5KSVF37EPraxV8wu0
+ -Total: 14.00 usd
+ -Shipping Info: Not Provided 
+
+ New Sale #3
+ -Date: 10/11/2020, 6:40:20 PM
+ -Transaction ID: pi_1HbG1QI5KSVF37EPbYI8Wa1o
+ -Total: 14.00 usd
+ -Shipping Info: Not Provided 
+
+ New Sale #1
+ -Date: 10/11/2020, 7:48:41 PM
+ -Transaction ID: pi_1HbH5ZI5KSVF37EPcqkRqUCP
+ -Total: 14.00 usd
+ -Shipping Info: Not Provided 
+
+ New Sale #2
+ -Date: 10/11/2020, 7:50:32 PM
+ -Transaction ID: pi_1HbH7MI5KSVF37EP1lPTR5uM
+ -Total: 14.00 usd
+ -Shipping Info: Not Provided 
+
+ New Sale #3
+ -Date: 10/11/2020, 7:54:20 PM
+ -Transaction ID: pi_1HbHB2I5KSVF37EPFGddzM9O
+ -Total: 14.00 usd
+ -Shipping Info: Not Provided 
+
+ New Sale #4
+ -Date: 10/11/2020, 7:56:53 PM
+ -Transaction ID: pi_1HbHDVI5KSVF37EP2hlbDFyr
+ -Total: 14.00 usd
+ -Shipping Info: Not Provided 
+
+ New Sale #5
+ -Date: 10/11/2020, 7:58:43 PM
+ -Transaction ID: pi_1HbHFHI5KSVF37EPlO1B6EXH
+ -Total: 14.00 usd
+ -Shipping Info: Not Provided 
+
+ New Sale #6
+ -Date: 10/11/2020, 7:59:12 PM
+ -Transaction ID: pi_1HbHFkI5KSVF37EPSawSOp6J
+ -Total: 14.00 usd
+ -Shipping Info: Not Provided 
+
+ New Sale #1
+ -Date: 10/11/2020, 8:00:40 PM
+ -Transaction ID: pi_1HbHHAI5KSVF37EPSqGTbQHL
+ -Total: 14.00 usd
+ -Customer Email: afsdfasd@yahoo.com
+ -Shipping Info: Not Provided 
+
+ New Sale #2
+ -Date: 10/11/2020, 8:01:15 PM
+ -Transaction ID: pi_1HbHHjI5KSVF37EPt6QJiZsH
+ -Total: 14.00 usd
+ -Customer Email: ssadfasdfasd@yahoo.co
+ -Shipping Info: Not Provided 
+
+ New Sale #3
+ -Date: 10/11/2020, 8:17:29 PM
+ -Transaction ID: pi_1HbHXRI5KSVF37EPhHdzSH5G
+ -Total: 14.00 usd
+ -Customer Email: afsdfasd@yahoo.com
+ -Shipping Info: Not Provided 
+
+ New Sale #4
+ -Date: 10/11/2020, 8:27:31 PM
+ -Transaction ID: pi_1HbHh9I5KSVF37EPfYJjCuDX
+ -Total: 14.00 usd
+ -Customer Email: 26626@yahoo.com
+ -Shipping Info: Not Provided 
+
+ New Sale #1
+ -Date: 10/11/2020, 8:30:12 PM
+ -Transaction ID: pi_1HbHjkI5KSVF37EPfjSlfLLy
+ -Total: 14.00 usd
+ -Billing Name: asdfsd dsadfas
+ -Billing Email: mike@stripe.com
+ -Shipping Info: Not Provided 
+
+ New Sale #1
+ -Date: 10/11/2020, 8:35:04 PM
+ -Transaction ID: pi_1HbHoSI5KSVF37EPgUa8BOYr
+ -Total: 14.00 usd
+ -Billing Info: 
+ --Customer Name: Mike Jones
+ --Customer Email: miked@jones.com
+ -Shipping Info: Not Provided 
+
+ New Sale #1
+ -Date: 10/11/2020, 8:37:45 PM
+ -Transaction ID: pi_1HbHr3I5KSVF37EPefhlSt6D
+ -Total: 20.00 usd
+ -Billing Info: 
+ --Customer Name: ahmed gharib
+ --Customer Email: ahmed@stripe.com
+ -Shipping Info: Not Provided 
+
+ New Sale #2
+ -Date: 10/11/2020, 8:38:47 PM
+ -Transaction ID: pi_1HbHs3I5KSVF37EPunh31ESz
+ -Total: 20.00 usd
+ -Billing Info: 
+ --Customer Name: null
+ --Customer Email: null
+ -Shipped To: Jenny Rosen
+ -Address: 
+ --Street Address: 510 Townsend St 
+ --City: San Francisco, CA
+ --Postal Code: 94103
+
+ New Sale #3
+ -Date: 10/11/2020, 8:39:59 PM
+ -Transaction ID: pi_1HbHtDI5KSVF37EPc7c3lonB
+ -Total: 20.00 usd
+ -Billing Info: 
+ --Customer Name: null
+ --Customer Email: null
+ -Shipped To: Jenny Rosen
+ -Address: 
+ --Street Address: 510 Townsend St 
+ --City: San Francisco, CA
+ --Postal Code: 94103
+
+ New Sale #4
+ -Date: 10/11/2020, 8:40:35 PM
+ -Transaction ID: pi_1HbHtnI5KSVF37EPynVDBKox
+ -Total: 20.00 usd
+ -Billing Info: 
+ --Customer Name: Mike Jones
+ --Customer Email: mikejones@who.com
+ -Shipping Info: Not Provided 
+
+ New Sale #5
+ -Date: 10/11/2020, 8:42:00 PM
+ -Transaction ID: pi_1HbHvAI5KSVF37EPvAsv6kQB
+ -Total: 20.00 usd
+ -Billing Info: 
+ --Customer Name: null
+ --Customer Email: null
+ -Shipped To: Jenny Rosen
+ -Address: 
+ --Street Address: 510 Townsend St 
+ --City: San Francisco, CA
+ --Postal Code: 94103
+
+ New Sale #6
+ -Date: 10/11/2020, 8:44:02 PM
+ -Transaction ID: pi_1HbHx8I5KSVF37EPXMzV9Z8q
+ -Total: 20.00 usd
+ -Billing Info: 
+ --Customer Name: Mike Jones
+ --Customer Email: ssadfasdfasd@yahoo.co
+ -Shipping Info: Not Provided 
+
+ New Sale #1
+ -Date: 10/11/2020, 8:57:00 PM
+ -Transaction ID: pi_1HbI9gI5KSVF37EPFDFJsDx1
+ -Total: 20.00 usd
+ -Billing Info: 
+ --Customer Name: Mike Wallace
+ --Customer Email: mike@nfl.com
+ -Shipping Info: Not Provided 
+
+ New Sale #2
+ -Date: 10/11/2020, 9:12:22 PM
+ -Transaction ID: pi_1HbIOYI5KSVF37EPHtKOin13
+ -Total: 20.00 usd
+ -Billing Info: 
+ --Customer Name: Mike Jones
+ --Customer Email: mike@yahoo.com
+ -Shipping Info: Not Provided 
+
+ New Sale #3
+ -Date: 10/11/2020, 9:21:10 PM
+ -Transaction ID: pi_1HbIX4I5KSVF37EPTx99qDTS
+ -Total: 20.00 usd
+ -Billing Info: 
+ --Customer Name: Delilah Rostom
+ --Customer Email: delilah@stripe.com
+ -Shipping Info: Not Provided 
+
+ New Sale #4
+ -Date: 10/11/2020, 9:24:56 PM
+ -Transaction ID: pi_1HbIaiI5KSVF37EPkprGuNoT
+ -Total: 20.00 usd
+ -Billing Info: 
+ --Customer Name: Mike Jones
+ --Customer Email: mike@jones.com
+ -Shipping Info: Not Provided 
