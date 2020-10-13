@@ -24,8 +24,7 @@ Running the code will bring up a page where you are required to enter your name,
 1. In the local instance of the web app, try putting in different card numbers, expiration dates etc and notice how it enforces all the card requirements. In addition it will enforce name and email. 
 2. You can test different card states as well using the following card numbers and any CVC, Zip, and future expiration date
 
-<!-- prettier-ignore -->
-| Test card number     | Using webhooks | Without webhooks | Declining on card authentication |
-:--- | :--- | :--- | :---
-**4242424242424242** | Succeeds  | Succeeds  | Succeeds |
-**4000000000003220** | Displays a pop-up modal to authenticate  | Displays a pop-up modal to authenticate  | Declines and asks customer for new card |
+| Test card number     | Using webhooks | Declining on card authentication |
+:--- | :--- | :---
+**4242424242424242** | Succeeds  | Succeeds |
+**4000000000003220** | Displays a pop-up modal to authenticate  | Declines and asks customer for new card |
