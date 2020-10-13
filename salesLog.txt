@@ -721,3 +721,25 @@
  --Customer Name: Mike Jones
  --Customer Email: mike@jones.com
  -Shipping Info: Not Provided 
+
+ New Sale #1
+ -Date: 10/12/2020, 7:37:36 PM
+ -Transaction ID: pi_1HbdOOI5KSVF37EPdTRo5k8J
+ -Total: 20.00 usd
+ -Billing Info: 
+ --Customer Name: null
+ --Customer Email: null
+ -Shipped To: Jenny Rosen
+ -Address: 
+ --Street Address: 510 Townsend St 
+ --City: San Francisco, CA
+ --Postal Code: 94103
+
+ New Sale #2
+ -Date: 10/12/2020, 7:37:43 PM
+ -Transaction ID: pi_1HbdOVI5KSVF37EPoTYqup4v
+ -Total: 20.00 usd
+ -Billing Info: 
+ --Customer Name: adsfsf adsfasfas
+ --Customer Email: Asdfasf@yahoo.com
+ -Shipping Info: Not Provided 
